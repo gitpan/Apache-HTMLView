@@ -24,7 +24,7 @@ package Apache::HTMLView;
 
 =head1 VERSION
 
-        $Revision: 0.9 $
+        $Revision: 0.91 $
 
 =head1 SYNOPSIS
 
@@ -61,7 +61,7 @@ For information about actions and fmt's, see DBIx::HTMLView.
 =cut
 
 use vars qw( $VERSION );
-( $VERSION ) = '$Revision: 0.9 $' =~ /([\d.]+)/;
+( $VERSION ) = '$Revision: 0.91 $' =~ /([\d.]+)/;
 
 
 use Apache::DBI;
